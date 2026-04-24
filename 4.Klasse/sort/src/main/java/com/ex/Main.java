@@ -7,7 +7,24 @@ public class Main {
        
        Sorting.shuffleArray(arr);
        Sorting.bubbleSort(arr);
+       Sorting.printArray(arr);
+       if(Sorting.isSorted(arr)){
+        System.out.println("sortiert!");
+       }else{
+        System.out.println("nicht sortiert!");
+       }
 
+       Sorting.shuffleArray(arr);
+       Sorting.merge_sort(arr);
+       Sorting.printArray(arr);
+       if(Sorting.isSorted(arr)){
+        System.out.println("sortiert!");
+       }else{
+        System.out.println("nicht sortiert!");
+       }
+
+       Sorting.shuffleArray(arr);
+       Sorting.insertion_sort(arr);
        Sorting.printArray(arr);
        if(Sorting.isSorted(arr)){
         System.out.println("sortiert!");
