@@ -25,6 +25,7 @@
     - (kleine Zusammenfassung + Visualisierung) https://gemini.google.com/share/70330bece1ca
 - Suche in einem Array
 - Binäres Suchen
+    - https://gemini.google.com/share/9c82d81539b5
 - Binäre Suchbäume
 - Hash-Tabellen
 
